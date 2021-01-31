@@ -46,3 +46,6 @@ conf_interval = c(estimated_b1+t, estimated_b1-t)
 # Then b1 is in confidence interwal:
 conf_interval
 
+# c)
+
+# H0: b1 = 0
